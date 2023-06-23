@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-folio/static/css/main.664a915e.css",
+    "main.js": "/my-folio/static/js/main.13eeae55.js",
+    "static/js/787.30237536.chunk.js": "/my-folio/static/js/787.30237536.chunk.js",
+    "static/media/ayush.png": "/my-folio/static/media/ayush.d89246a4d66bb9dfd6c9.png",
+    "static/media/ayush_sub.png": "/my-folio/static/media/ayush_sub.a2310a729c718498b9dc.png",
+    "static/media/helvetica-neu.ttf": "/my-folio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo3.png": "/my-folio/static/media/logo3.4e8df23c0dbefba0b048.png",
+    "static/media/LaBelleAurore.woff2": "/my-folio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo4.png": "/my-folio/static/media/logo4.516a3d8f6c079ee04718.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/my-folio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/my-folio/index.html",
+    "main.664a915e.css.map": "/my-folio/static/css/main.664a915e.css.map",
+    "main.13eeae55.js.map": "/my-folio/static/js/main.13eeae55.js.map",
+    "787.30237536.chunk.js.map": "/my-folio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664a915e.css",
+    "static/js/main.13eeae55.js"
+  ]
+}
